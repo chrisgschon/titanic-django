@@ -18,11 +18,11 @@ A simple example of how Django can be used to serve predictions through an API.
 
   
 
-``` conda install --file requirements.txt ```
+``` conda install pip ```
+
+``` pip install -r requirements.txt ```
 
   
-  
-
 ## 🚀 Run local Django server
 
 This will host the API.
